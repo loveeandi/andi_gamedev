@@ -1,2 +1,2 @@
-# andi_gamedev
-GAMEDEV S01
+# ANDREA NELI BAYOS - GAMEDEV
+S01
